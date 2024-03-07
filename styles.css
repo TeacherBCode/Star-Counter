@@ -1,0 +1,29 @@
+body{
+    background-image: url('./images/stars.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+.fs-cus{
+    font-size: 7rem;
+    margin: 50px auto;
+}
+
+@media (min-width: 600px) {   
+.gap-cus{
+    margin-right: 50px;
+}
+}
+.saveCheck{
+    margin: 30px;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.btn-cus{
+    padding: 10px ;
+    font-size: 1.5rem;
+}
